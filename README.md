@@ -23,7 +23,7 @@ Currently pursuing a bachelor's degree in software engineering at [ITMO Universi
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **[WEB]** |  | `JAKARTA EE`, `PostgreSQL` | [🔗 GitHub](link)  |
+| **[WEB]** | simple web applications | `JAKARTA EE`, `PostgreSQL` | [🔗 GitHub](link)  |
 | **[JAVA]** | a simple client server application | `Java`|
 
 
