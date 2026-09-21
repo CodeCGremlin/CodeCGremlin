@@ -30,7 +30,7 @@ Currently pursuing a bachelor's degree in software engineering at [ITMO Universi
 ### 🛠 My technical stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,postgres,docker,git,linux" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,postgres,mysql, docker,git,linux" />
   </a>
 </p>
 
