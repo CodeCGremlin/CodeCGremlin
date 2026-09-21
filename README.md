@@ -17,7 +17,7 @@ Currently pursuing a bachelor's degree in software engineering at [ITMO Universi
 
 ### 🚀 What I'm working on now
 - 🎓 I'm in my 3rd year «System and Application Software».
-- 💻 I study Spring, embedded systems, and optimization methods.
+- 💻 I study Spring, embedded systems, and system programming.
 <!--- 🌱 I'm working on a pet project: . -->
 
 
