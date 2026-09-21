@@ -1,5 +1,4 @@
 
-
 <table align=center>
   <tr>
     <td align=center><a href="mailto:stdstudyveter@gmail.com" target="_blank">
@@ -11,10 +10,28 @@
 
 ## Hi 👋
 
+I'm a novice backend programmer.
+Currently pursuing a bachelor's degree in software engineering at [ITMO University](https://en.itmo.ru/).
 
 
+### 🛠 My technical stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,postgres,docker,git,linux" />
+  </a>
+</p>
 
-I am currently pursuing a bachelor's degree in software engineering at [ITMO University](https://en.itmo.ru/).
+
+### 🚀 What I'm working on now
+- 🎓 I'm in my 3rd year «System and Application Software».
+- 💻 I study Spring, embedded systems, and optimization methods.
+<!--- 🌱 I'm working on a pet project: . -->
+
+
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **[WEB]** |  | `JAKARTA EE`, `PostgreSQL' | [🔗 GitHub](link)  |
+| **[JAVA]** | a simple client server application | `Java`|
 
 
 <!--
