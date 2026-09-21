@@ -20,12 +20,12 @@ Currently pursuing a bachelor's degree in software engineering at [ITMO Universi
 - 💻 I study Spring, embedded systems, and system programming.
 <!--- 🌱 I'm working on a pet project: . -->
 
-
+<!---
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **[WEB]** | simple web applications | `JAKARTA EE`, `PostgreSQL` | [🔗 GitHub](link)  |
 | **[JAVA]** | a simple client server application | `Java`|
-
+ -->
 
 ### 🛠 My technical stack
 <p align="left">
