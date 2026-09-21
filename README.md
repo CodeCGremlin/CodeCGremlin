@@ -14,13 +14,6 @@ I'm a novice backend programmer.
 Currently pursuing a bachelor's degree in software engineering at [ITMO University](https://en.itmo.ru/).
 
 
-### 🛠 My technical stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,postgres,docker,git,linux" />
-  </a>
-</p>
-
 
 ### 🚀 What I'm working on now
 - 🎓 I'm in my 3rd year «System and Application Software».
@@ -30,8 +23,18 @@ Currently pursuing a bachelor's degree in software engineering at [ITMO Universi
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **[WEB]** |  | `JAKARTA EE`, `PostgreSQL' | [🔗 GitHub](link)  |
+| **[WEB]** |  | `JAKARTA EE`, `PostgreSQL` | [🔗 GitHub](link)  |
 | **[JAVA]** | a simple client server application | `Java`|
+
+
+### 🛠 My technical stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,postgres,docker,git,linux" />
+  </a>
+</p>
+
+
 
 
 <!--
