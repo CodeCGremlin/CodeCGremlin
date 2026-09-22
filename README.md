@@ -8,19 +8,19 @@
 </table>
 
 
-## Hi 👋
+## Hi 
 
 I'm a novice backend programmer.
 Currently pursuing a bachelor's degree in software engineering at [ITMO University](https://en.itmo.ru/).
 
 
 
-### 🚀 What I'm working on now
+###  What I'm working on now
 - I'm in my 3rd year «System and Application Software».
 - Study Spring, embedded systems, and system programming.
 - You can get acquainted with my educational projects. https://github.com/CodeCGremlin/ITMO
 
-<!--- 🌱 I'm working on a pet project: . -->
+<!---  I'm working on a pet project: . -->
 
 <!---
 | Project | Description | Stack | Link |
