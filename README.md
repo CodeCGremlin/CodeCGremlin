@@ -29,7 +29,7 @@ Currently pursuing a bachelor's degree in software engineering at [ITMO Universi
 | **[JAVA]** | a simple client server application | `Java`|
  -->
 
-### 🛠 My technical stack
+### My technical stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,postgres,mysql,docker,git,linux" />
